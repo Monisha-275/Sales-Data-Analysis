@@ -39,8 +39,8 @@ The interactive dashboard presents key sales metrics and visualisations. Slicers
 - Analysing data and identifying business insights
 
 ## Project Files
-- `Project/Sales_Data_Analysis.xlsx` – Complete Excel project workbook
-- `Screenshots/Dashboard.png` – Dashboard screenshot
+- `Sales_Data_Analysis.xlsx` – Complete Excel project workbook
+- `Dashboard.png` – Dashboard screenshot
 
 ## Dashboard Preview
-![Excel Dashboard](Screenshots/Dashboard.png)
+![Excel Dashboard](Dashboard.png)
