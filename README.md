@@ -44,3 +44,8 @@ The interactive dashboard presents key sales metrics and visualisations. Slicers
 
 ## Dashboard Preview
 ![Excel Dashboard](Dashboard.png)
+
+Project Demo Video
+
+Watch the complete project demonstration here:
+https://youtube.com/shorts/hOE4he8fbsY?feature=share
